@@ -1,0 +1,34 @@
+﻿@page "/counter"
+@using Telerik.ReportViewer.Blazor;
+
+<style>
+    #rv1 {
+        position: relative;
+        width: 1000px;
+        height: 500px;
+    }
+</style>
+
+<select>
+    @foreach(String res in myString){
+        <option>@res</option>
+    }
+</select>
+
+<p>@myString.Count()</p>
+
+<ReportViewer ViewerId="rv1" ServiceUrl="/api/reports" ReportSource="@(new ReportSourceOptions(){
+    Report = reportDetails
+})" ScaleMode="@ScaleMode.FitPageWidth" PageMode="@PageMode.SinglePage" />
+
+@code {
+    private String reportDetails = "Report2m.trdp";
+    private List<String> myString;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        String sourceDirectory = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/Reports");
+        myString = Directory.EnumerateFiles(sourceDirectory, "*", SearchOption.AllDirectories).Where(s => s.EndsWith(".trdp") && s.Count(c => c == '.') == 2).ToList();
+    }
+}

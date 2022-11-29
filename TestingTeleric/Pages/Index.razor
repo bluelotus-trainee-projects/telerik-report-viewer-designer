@@ -1,0 +1,15 @@
+﻿@page "/"
+@using Telerik.WebReportDesigner.Blazor
+
+<style>
+    #wrd1{
+        position:relative;
+        width:900px;
+        height:880px;
+        padding-right:80px;
+    }
+</style>
+
+<WebReportDesigner DesignerId="wrd1" ServiceUrl="/api/reportdesigner" Report="Report2.trdp"
+ToolboxArea="new ToolboxAreaOptions(){ Layout = ToolboxAreaLayout.List}"
+PropertiesArea="new PropertiesAreaOptions(){Layout = PropertiesAreaLayout.Categorized}"/>
