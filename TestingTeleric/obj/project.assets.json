@@ -3597,23 +3597,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gayantha\\.nuget\\packages\\": {},
+    "C:\\Users\\danul\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\TestingTeleric.csproj",
+      "projectUniqueName": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\TestingTeleric.csproj",
       "projectName": "TestingTeleric",
-      "projectPath": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\TestingTeleric.csproj",
-      "packagesPath": "C:\\Users\\Gayantha\\.nuget\\packages\\",
-      "outputPath": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\obj\\",
+      "projectPath": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\TestingTeleric.csproj",
+      "packagesPath": "C:\\Users\\danul\\.nuget\\packages\\",
+      "outputPath": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gayantha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\danul\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

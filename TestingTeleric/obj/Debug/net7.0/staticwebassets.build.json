@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uiLlvXz1hag6jfsE35hXNyMgUcFgc9fPoG+f14yOeUw=",
+  "Hash": "NyagNWqWcm8IDMz5zrUKQFq/JIyEZQdwFxlKQ+NGY5g=",
   "Source": "TestingTeleric",
   "BasePath": "_content/TestingTeleric",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TestingTeleric\\wwwroot",
       "Source": "TestingTeleric",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\",
       "BasePath": "_content/TestingTeleric",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Gayantha\\.nuget\\packages\\telerik.reportviewer.blazor.trial\\16.2.22.1109\\staticwebassets\\interop.js",
+      "Identity": "C:\\Users\\danul\\.nuget\\packages\\telerik.reportviewer.blazor.trial\\16.2.22.1109\\staticwebassets\\interop.js",
       "SourceId": "Telerik.ReportViewer.Blazor.Trial",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Gayantha\\.nuget\\packages\\telerik.reportviewer.blazor.trial\\16.2.22.1109\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\danul\\.nuget\\packages\\telerik.reportviewer.blazor.trial\\16.2.22.1109\\staticwebassets\\",
       "BasePath": "_content/Telerik.ReportViewer.Blazor.Trial",
       "RelativePath": "interop.js",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Gayantha\\.nuget\\packages\\telerik.reportviewer.blazor.trial\\16.2.22.1109\\staticwebassets\\interop.js"
+      "OriginalItemSpec": "C:\\Users\\danul\\.nuget\\packages\\telerik.reportviewer.blazor.trial\\16.2.22.1109\\staticwebassets\\interop.js"
     },
     {
-      "Identity": "C:\\Users\\Gayantha\\.nuget\\packages\\telerik.webreportdesigner.blazor.trial\\16.2.22.1109\\staticwebassets\\telerikWebReportDesignerInterop.js",
+      "Identity": "C:\\Users\\danul\\.nuget\\packages\\telerik.webreportdesigner.blazor.trial\\16.2.22.1109\\staticwebassets\\telerikWebReportDesignerInterop.js",
       "SourceId": "Telerik.WebReportDesigner.Blazor.Trial",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Gayantha\\.nuget\\packages\\telerik.webreportdesigner.blazor.trial\\16.2.22.1109\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\danul\\.nuget\\packages\\telerik.webreportdesigner.blazor.trial\\16.2.22.1109\\staticwebassets\\",
       "BasePath": "_content/Telerik.WebReportDesigner.Blazor.Trial",
       "RelativePath": "telerikWebReportDesignerInterop.js",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Gayantha\\.nuget\\packages\\telerik.webreportdesigner.blazor.trial\\16.2.22.1109\\staticwebassets\\telerikWebReportDesignerInterop.js"
+      "OriginalItemSpec": "C:\\Users\\danul\\.nuget\\packages\\telerik.webreportdesigner.blazor.trial\\16.2.22.1109\\staticwebassets\\telerikWebReportDesignerInterop.js"
     },
     {
-      "Identity": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TestingTeleric.styles.css",
+      "Identity": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TestingTeleric.styles.css",
       "SourceId": "TestingTeleric",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TestingTeleric",
       "RelativePath": "TestingTeleric.styles.css",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TestingTeleric.styles.css"
+      "OriginalItemSpec": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TestingTeleric.styles.css"
     },
     {
-      "Identity": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TestingTeleric.bundle.scp.css",
+      "Identity": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TestingTeleric.bundle.scp.css",
       "SourceId": "TestingTeleric",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TestingTeleric",
       "RelativePath": "TestingTeleric.bundle.scp.css",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TestingTeleric.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TestingTeleric.bundle.scp.css"
     },
     {
-      "Identity": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "TestingTeleric",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\",
       "BasePath": "_content/TestingTeleric",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "TestingTeleric",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\",
       "BasePath": "_content/TestingTeleric",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -119,27 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "TestingTeleric",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\",
-      "BasePath": "_content/TestingTeleric",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
-    },
-    {
-      "Identity": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
-      "SourceId": "TestingTeleric",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\",
       "BasePath": "_content/TestingTeleric",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -153,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "TestingTeleric",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\",
       "BasePath": "_content/TestingTeleric",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -170,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "TestingTeleric",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\",
       "BasePath": "_content/TestingTeleric",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -187,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "TestingTeleric",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\",
       "BasePath": "_content/TestingTeleric",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -204,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "TestingTeleric",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\",
       "BasePath": "_content/TestingTeleric",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -221,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "TestingTeleric",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\",
       "BasePath": "_content/TestingTeleric",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -238,10 +221,27 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "TestingTeleric",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\",
+      "BasePath": "_content/TestingTeleric",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
+      "Identity": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "SourceId": "TestingTeleric",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\",
       "BasePath": "_content/TestingTeleric",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "TestingTeleric",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\",
       "BasePath": "_content/TestingTeleric",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\css\\site.css",
       "SourceId": "TestingTeleric",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\",
       "BasePath": "_content/TestingTeleric",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\favicon.png",
+      "Identity": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\favicon.png",
       "SourceId": "TestingTeleric",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\",
       "BasePath": "_content/TestingTeleric",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\Reports\\Report2.trdp",
+      "Identity": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\Reports\\Report2.trdp",
       "SourceId": "TestingTeleric",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\",
       "BasePath": "_content/TestingTeleric",
       "RelativePath": "Reports/Report2.trdp",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\Reports\\Report2.trdp"
     },
     {
-      "Identity": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\Reports\\Report2m.trdp",
+      "Identity": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\Reports\\Report2m.trdp",
       "SourceId": "TestingTeleric",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BL360\\teleric-research\\TestingTeleric\\TestingTeleric\\wwwroot\\",
+      "ContentRoot": "D:\\Industrial\\Blue Lotus 360\\Projects\\Telerik Gaya\\telerik-report-viewer-designer\\TestingTeleric\\wwwroot\\",
       "BasePath": "_content/TestingTeleric",
       "RelativePath": "Reports/Report2m.trdp",
       "AssetKind": "All",
